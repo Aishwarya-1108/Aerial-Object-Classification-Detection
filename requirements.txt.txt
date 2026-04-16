@@ -1,0 +1,10 @@
+**requirements.txt**
+
+tensorflow
+streamlit
+numpy
+pillow
+matplotlib
+seaborn
+scikit-learn
+pyngrok
